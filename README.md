@@ -39,4 +39,10 @@ Realtime Drawing Game Built with NodeJs, SocketIO, Gulp
 
 ---
 
+### Socket.io
 
+관련 링크
+
+https://poiemaweb.com/nodejs-socketio
+
+https://velog.io/@ju_h2/Node.js-socket.io%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B1%84%ED%8C%85-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0

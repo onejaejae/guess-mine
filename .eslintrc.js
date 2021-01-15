@@ -15,5 +15,6 @@ module.exports = {
     "spaced-comment": "off",
     "no-else-return": "off",
     "import/no-cycle": "off",
+    "prefer-const": "off",
   },
 };
