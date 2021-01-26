@@ -1,11 +1,11 @@
-const notifications = document.getElementById("jsNotifications");
+const body = document.querySelector("body");
 
 const fireNotification = (text, color) => {
   const notification = document.createElement("div");
   notification.innerText = text;
   notification.style.backgroundColor = color;
   notification.className = "notification";
-  notifications.appendChild(notification);
+  body.appendChild(notification);
 };
 
 // eslint-disable-next-line import/prefer-default-export
